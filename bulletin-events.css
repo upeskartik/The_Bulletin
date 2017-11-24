@@ -20,38 +20,39 @@
 .container{
     margin:0px !important;
     padding-right: 0px !important;
-    padding-left: 0px !important;
-
+    padding-left: 0px !important; 
+    
+    
 }
 
 body{
-    background-image: url(paper.gif);
-    background-color:
-
+    padding: 0px;
+    background-color: #d1c4e9;
+    text:#a2a2a7;
 }
 
 h1{
     text-align: center;
     font-family: monospace;
-    color:#593f89;
-
+    
+    
 }
-h2{
-   text-align: center;
-   font-family: monospace;
-   color: #2dce83
-}
-#e,#s{
+#e{
     text-align: center;
     font-family:serif;
     font-size: 30px;
-    background-color: #ceb861;
+    background-color: #ffab40;
+    border: none;
+}
 
+#s{
+    text-align: center;
+    font-family:serif;
+    font-size: 30px;
+    background-color: #ffb74d;
+    border: none;
 }
 .des{
-
+    
     font-size: 50px;
-    color: #a32b13;
-
-}
-</html>
+    color: #bc9060;
